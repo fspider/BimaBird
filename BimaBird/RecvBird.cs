@@ -40,6 +40,12 @@ namespace BimaBird
             }
             msgContent.CreatedDatetime = msg.Message.CreatedDatetime;
             msgContent.UpdatedDatetime = msg.Message.UpdatedDatetime;
+            if (msg.Message.CreatedDatetime.HasValue) {
+                msgContent.CreatedDatetime = msg.Message.CreatedDatetime.Value.AddHours(4);
+            }
+            if (msg.Message.UpdatedDatetime.HasValue) {
+                msgContent.UpdatedDatetime = msg.Message.UpdatedDatetime.Value.AddHours(4);
+            }
 
             string dataType = msg.Message.Type.ToString();
             msgContent.DataType = dataType;
