@@ -1,0 +1,47 @@
+{
+  "contact": {
+    "attributes": {},
+    "createdDatetime": "2020-07-19T14:53:42Z",
+    "customDetails": {},
+    "displayName": "96895542930",
+    "firstName": "",
+    "href": "https://contacts.messagebird.com/v2/contacts/91712f37d5304bffa2d061089ffe6f82",
+    "id": "91712f37d5304bffa2d061089ffe6f82",
+    "lastName": "",
+    "msisdn": 96895542930,
+    "updatedDatetime": "2020-07-19T14:53:42Z"
+  },
+  "conversation": {
+    "contactId": "91712f37d5304bffa2d061089ffe6f82",
+    "createdDatetime": "2020-07-19T14:53:42Z",
+    "id": "95dba111d93f42fca5ced8d695674dea",
+    "lastReceivedDatetime": "2020-08-12T05:37:30.558773283Z",
+    "lastUsedChannelId": "72d19ef4f5a14316a489242a8043bba7",
+    "status": "active",
+    "updatedDatetime": "2020-08-12T05:37:30.567837564Z"
+  },
+  "message": {
+    "channelId": "72d19ef4f5a14316a489242a8043bba7",
+    "content": {
+      "hsm": {
+        "language": {
+          "code": "ar",
+          "policy": "deterministic"
+        },
+        "namespace": "0d4193e3_da2d_4e5e_a332_6b99f0bea48c",
+        "templateName": "first_message_ar"
+      }
+    },
+    "conversationId": "95dba111d93f42fca5ced8d695674dea",
+    "createdDatetime": "2020-08-12T05:37:30Z",
+    "direction": "sent",
+    "from": "+96871717744",
+    "id": "1a04ea05a2c246eb987d64accbd8c4ec",
+    "platform": "whatsapp",
+    "status": "delivered",
+    "to": "+96895542930",
+    "type": "hsm",
+    "updatedDatetime": "2020-08-12T05:37:33.717501499Z"
+  },
+  "type": "message.updated"
+}

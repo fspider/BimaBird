@@ -1,0 +1,42 @@
+{
+  "contact": {
+    "attributes": {},
+    "createdDatetime": "2020-07-19T14:53:42Z",
+    "customDetails": {},
+    "displayName": "96895542930",
+    "firstName": "",
+    "href": "https://contacts.messagebird.com/v2/contacts/91712f37d5304bffa2d061089ffe6f82",
+    "id": "91712f37d5304bffa2d061089ffe6f82",
+    "lastName": "",
+    "msisdn": 96895542930,
+    "updatedDatetime": "2020-07-19T14:53:42Z"
+  },
+  "conversation": {
+    "contactId": "91712f37d5304bffa2d061089ffe6f82",
+    "createdDatetime": "2020-07-19T14:53:42Z",
+    "id": "95dba111d93f42fca5ced8d695674dea",
+    "lastReceivedDatetime": "2020-07-22T15:14:41.91307875Z",
+    "status": "active",
+    "updatedDatetime": "2020-07-22T15:14:41.540347003Z"
+  },
+  "message": {
+    "channelId": "72d19ef4f5a14316a489242a8043bba7",
+    "content": {
+      "image": {
+        "caption": "find attachments",
+        "url": "https://www.bima.om//Uploads/Att/796cedba-58cd-46c2-87a8-b076b0c5bb06.png"
+      }
+    },
+    "conversationId": "95dba111d93f42fca5ced8d695674dea",
+    "createdDatetime": "2020-07-22T15:14:41Z",
+    "direction": "sent",
+    "from": "+96871717744",
+    "id": "34c878005a1b4f4891faf4735570db31",
+    "platform": "whatsapp",
+    "status": "pending",
+    "to": "+96895542930",
+    "type": "image",
+    "updatedDatetime": "2020-07-22T15:14:41.919310587Z"
+  },
+  "type": "message.created"
+}

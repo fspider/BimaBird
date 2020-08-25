@@ -6,5 +6,9 @@ namespace MessageBird.Objects.Conversations
     {
         [JsonProperty("url")]
         public string Url { get; set; }
+
+        [JsonProperty("caption")]
+        public string Caption { get; set; }
+
     }
 }

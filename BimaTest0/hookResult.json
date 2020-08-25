@@ -1,0 +1,42 @@
+{
+  "contact": {
+    "attributes": {},
+    "createdDatetime": "2020-07-01T09:07:20Z",
+    "customDetails": {},
+    "displayName": "{firstName} {lastName}",
+    "firstName": "",
+    "href": "https://contacts.messagebird.com/v2/contacts/45a2359eb05440b38936ae33fa684b34",
+    "id": "45a2359eb05440b38936ae33fa684b34",
+    "lastName": "",
+    "msisdn": 8618943739660,
+    "updatedDatetime": "2020-07-01T09:07:20Z"
+  },
+  "conversation": {
+    "contactId": "45a2359eb05440b38936ae33fa684b34",
+    "createdDatetime": "2020-07-18T07:04:49Z",
+    "id": "f4a528b72cee4530aee4ed8cb7b8139d",
+    "lastReceivedDatetime": "2020-08-16T06:54:54.0018118Z",
+    "status": "active",
+    "updatedDatetime": "2020-08-16T06:53:25.933040628Z"
+  },
+  "message": {
+    "channelId": "72d19ef4f5a14316a489242a8043bba7",
+    "content": {
+      "location": {
+        "latitude": 23.579418,
+        "longitude": 58.41177
+      }
+    },
+    "conversationId": "f4a528b72cee4530aee4ed8cb7b8139d",
+    "createdDatetime": "2020-08-16T06:54:53Z",
+    "direction": "sent",
+    "from": "+96871717744",
+    "id": "79d98984ed7b456681440f3ba6ed15d7",
+    "platform": "whatsapp",
+    "status": "pending",
+    "to": "+8618943739660",
+    "type": "location",
+    "updatedDatetime": "2020-08-16T06:54:54.011727855Z"
+  },
+  "type": "message.created"
+}
